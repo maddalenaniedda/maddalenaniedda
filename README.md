@@ -1,9 +1,23 @@
+# Hi, I'm Maddy 👋
 
-##  Hi, I'm Maddy 👋
+### 💻 Data Analyst | Power BI | Excel | Python
 
-### Data Analyst | Power BI | Excel | Python
+💬 With **16+ years of experience** in corporate environments, I transform complex data into **clear, actionable, and visually engaging insights**. I believe that **numbers should tell a story**, and I love designing dashboards and reports that make data easy to understand for everyone. ✨
 
-💬 Experienced data analyst with 16+ years in corporate environments, passionate about **turning complex numbers into clear, visually engaging insights that tell a story.** ✨
+---
+
+### 🔍 What I Do
+- Build **interactive dashboards** in Power BI to simplify complex datasets  
+- Clean, transform, and analyze data using **SQL, Excel, and Python**  
+- Visualize insights through **charts, infographics, and data storytelling**  
+- Focus on **accessibility and clarity**, ensuring information is understandable by all users  
+
+---
+
+### 🌟 Philosophy
+*Clear, meaningful, and beautiful data storytelling*
+
+---
 
 <!-- **maddalenaniedda/maddalenaniedda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
