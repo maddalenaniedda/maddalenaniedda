@@ -1,7 +1,11 @@
-## Hi there 👋
 
-<!--
-**maddalenaniedda/maddalenaniedda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Hi, I'm Maddy 👋
+
+### Data Analyst | Power BI | Excel | Python
+
+💬 Experienced data analyst with 16+ years in corporate environments, passionate about **turning complex numbers into clear, visually engaging insights that tell a story.**✨
+
+<!-- **maddalenaniedda/maddalenaniedda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
