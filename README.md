@@ -6,7 +6,7 @@ With **16+ years of experience** in corporate environments, I transform complex 
 
 ---
 
-### 🔍 What I Do
+### What I Do
 - Build **interactive dashboards** in Power BI to simplify complex datasets  
 - Clean, transform, and analyze data using **SQL, Excel, and Python**  
 - Visualize insights through **charts, infographics, and data storytelling**  
