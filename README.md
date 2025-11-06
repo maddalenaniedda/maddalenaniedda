@@ -1,6 +1,6 @@
 # Hi, I'm Maddy
 
-### <img width="90" height="65" alt="image" src="https://github.com/user-attachments/assets/cf993f41-b7ba-42e2-8f9f-aa1a725bfbfc" /> Data Analysis | Power BI | SQL | Python
+### <img width="90" height="65" alt="image" src="https://github.com/user-attachments/assets/c71ab626-bc64-4b20-ba04-10dc0d8e8a2b" />  Data Analysis | Power BI | SQL | Python
 
 
 
