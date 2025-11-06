@@ -1,6 +1,10 @@
 # Hi, I'm Maddy
 
-### <img width="90" height="65" alt="wordart 2com" src="https://github.com/user-attachments/assets/d40f1366-8ad5-42b1-8199-045007ae2cec" /> Data Analysis | Power BI | SQL | Python
+### <img width="90" height="65" alt="wordart3 com" src="https://github.com/user-attachments/assets/538313ca-21ce-4a21-a3c2-ffc2d78c3c49" /> Data Analysis | Power BI | SQL | Python
+
+
+
+
 
 With **16+ years of experience** in corporate environments, I transform complex data into **clear, actionable, and visually engaging insights**. I believe that **numbers should tell a story**, and I love designing dashboards and reports that make data easy to understand for everyone. ✨
 
