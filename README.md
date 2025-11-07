@@ -6,7 +6,7 @@
 
 
 
-With **16+ years of experience** in corporate environments, I transform complex data into **clear, actionable, and visually engaging insights**. I believe that **numbers should tell a story**, and I love designing dashboards and reports that make data easy to understand for everyone. ✨
+With **16+ years of experience** in corporate environments, I transform complex data into **clear, actionable, and visually engaging insights**. I believe that **numbers should tell a story**, and I love designing dashboards and reports that make data easy to understand for everyone. 
 
 ---
 
@@ -18,7 +18,7 @@ With **16+ years of experience** in corporate environments, I transform complex 
 
 ---
 
-### <img width="75" height="55" alt="image" src="https://github.com/user-attachments/assets/425a4f21-19ff-48e6-9182-435384b5aeef" /> &nbsp; **Philosophy**
+### <img width="70" height="55" alt="image" src="https://github.com/user-attachments/assets/425a4f21-19ff-48e6-9182-435384b5aeef" /> &nbsp; **Philosophy**
 *Unraveling complex data into stories anyone can understand.*
 
 
