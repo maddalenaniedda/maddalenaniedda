@@ -10,7 +10,7 @@ With **16+ years of experience** in corporate environments, I transform complex 
 
 ---
 
-### <img src="https://github.com/user-attachments/assets/571ec89a-7ff2-43fd-9a61-a9a0f2bad5c8" width="45" height="45" alt="icon" style="vertical-align:middle; margin-right:8px;"> &nbsp; **What I Do**
+### <img src="https://github.com/user-attachments/assets/571ec89a-7ff2-43fd-9a61-a9a0f2bad5c8" width="40" height="35" alt="icon" style="vertical-align:middle; margin-right:8px;"> &nbsp; **What I Do**
 - Build **interactive dashboards** in Power BI to simplify complex datasets  
 - Clean, transform, and analyze data using **SQL, Excel, and Python**  
 - Visualize insights through **charts, infographics, and data storytelling**  
@@ -18,7 +18,7 @@ With **16+ years of experience** in corporate environments, I transform complex 
 
 ---
 
-### <img width="90" height="65" alt="image" src="https://github.com/user-attachments/assets/425a4f21-19ff-48e6-9182-435384b5aeef" /> &nbsp; **Philosophy**
+### <img width="75" height="55" alt="image" src="https://github.com/user-attachments/assets/425a4f21-19ff-48e6-9182-435384b5aeef" /> &nbsp; **Philosophy**
 *Unraveling complex data into stories anyone can understand.*
 
 
